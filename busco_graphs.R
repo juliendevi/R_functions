@@ -1,3 +1,5 @@
+# Author: Julien Devilliers
+
 library(ggplot2)
 
 # Function ----
